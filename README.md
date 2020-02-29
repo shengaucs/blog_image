@@ -1,2 +1,2 @@
 # blog_image
-Images for my blog(shengaucs.github.io).
+Images for my blog(shengyjs.github.io).
